@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/PPAC_API.props" />
+</Project>
